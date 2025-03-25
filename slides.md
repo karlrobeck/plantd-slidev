@@ -1,14 +1,14 @@
 ---
 layout: image
-image: ./plantd-cover.jpg
+image: ./public/plantd-cover.jpg
 ---
 
 ---
 layout: cover
-background: ./tree-1.jpg
+background: ./public/tree-1.jpg
 ---
 
-<img src="./plantd-logo.png" class="h-8 inline" />
+<img src="./public/plantd-logo.png" class="h-8 inline" />
 
 <br/>
 <br/>
@@ -21,7 +21,7 @@ background: ./tree-1.jpg
 
 ---
 
-<img src="./plantd-logo.png" class="h-8 inline" />
+<img src="./public/plantd-logo.png" class="h-8 inline" />
 
 <br/>
 <br/>
@@ -35,7 +35,7 @@ background: ./tree-1.jpg
 
 <div class="flex justify-center">
 
-<img src="./global-map.png" class="rounded-md h-48 w-128 object-cover" />
+<img src="./public/global-map.png" class="rounded-md h-48 w-128 object-cover" />
 
 </div>
 
@@ -83,7 +83,7 @@ layout: cover
 ---
 
 
-<img src="./plantd-logo.png" class="h-8 inline" />
+<img src="./public/plantd-logo.png" class="h-8 inline" />
 
 <br/>
 <br/>
@@ -96,21 +96,21 @@ layout: cover
 
 ---
 
-<img src="./plantd-logo.png" class="h-8 inline" />
+<img src="./public/plantd-logo.png" class="h-8 inline" />
 
 <br/>
 <br/>
 
 ## THE SIGNS ARE <code class="text-green">EVERYWHERE</code>.
 
-<img src="./reports.png" class="h-96 w-full object-cover pt-4" />
+<img src="./public/reports.png" class="h-96 w-full object-cover pt-4" />
 
 ---
 transition: view-transition
 ---
 
 
-<img src="./plantd-logo.png" class="h-8 inline" />
+<img src="./public/plantd-logo.png" class="h-8 inline" />
 
 <br/>
 <br/>
@@ -125,7 +125,7 @@ transition: view-transition
 
   <div class="space-y-2.5 flex flex-col items-center text-center">
 
-  <img src="./barn-clipart.png" class="rounded-md h-32">
+  <img src="./public/barn-clipart.png" class="rounded-md h-32">
 
   #### `Large-scale commercial agriculture`
 
@@ -133,7 +133,7 @@ transition: view-transition
 
   <div class="space-y-2.5 flex flex-col items-center text-center">
 
-  <img src="./cattle-clipart.png" class="rounded-md h-32">
+  <img src="./public/cattle-clipart.png" class="rounded-md h-32">
 
   #### `Cattle ranching`
 
@@ -144,7 +144,7 @@ transition: view-transition
 ---
 
 
-<img src="./plantd-logo.png" class="h-8 inline" />
+<img src="./public/plantd-logo.png" class="h-8 inline" />
 
 <br/>
 <br/>
@@ -159,7 +159,7 @@ transition: view-transition
 
   <div class="space-y-2.5 flex flex-col items-center text-center">
 
-  <img src="./logging-clipart.png" class="rounded-md h-32">
+  <img src="./public/logging-clipart.png" class="rounded-md h-32">
 
   #### `Logging for timber and fuelwood.`
 
@@ -167,7 +167,7 @@ transition: view-transition
 
   <div class="space-y-2.5 flex flex-col items-center text-center">
 
-  <img src="./crane-clipart.png" class="rounded-md h-32">
+  <img src="./public/crane-clipart.png" class="rounded-md h-32">
 
   #### `Infrastructure developments` <br/> *(roads, dams and mining operations)*
 
@@ -178,7 +178,7 @@ transition: view-transition
 ---
 
 
-<img src="./plantd-logo.png" class="h-8 inline" />
+<img src="./public/plantd-logo.png" class="h-8 inline" />
 
 <br/>
 <br/>
@@ -193,7 +193,7 @@ transition: view-transition
 
   <div class="space-y-2.5 flex flex-col items-center text-center">
 
-  <img src="./transport-clipart.png" class="rounded-md h-32">
+  <img src="./public/transport-clipart.png" class="rounded-md h-32">
 
   #### `Transportation` <br/> *(standard vehiclesand airline travel)*
 
@@ -201,7 +201,7 @@ transition: view-transition
 
   <div class="space-y-2.5 flex flex-col items-center text-center">
 
-  <img src="./energy-clipart.png" class="rounded-md h-32">
+  <img src="./public/energy-clipart.png" class="rounded-md h-32">
 
   #### `Energy Consumption` <br /> *(if the energy source is `coal`, `oil` or `natural gas`)*
 
@@ -212,7 +212,7 @@ transition: view-transition
 ---
 
 
-<img src="./plantd-logo.png" class="h-8 inline" />
+<img src="./public/plantd-logo.png" class="h-8 inline" />
 
 <br/>
 <br/>
@@ -227,7 +227,7 @@ transition: view-transition
 
   <div class="space-y-2.5 flex flex-col items-center text-center">
 
-  <img src="./transport-clipart.png" class="rounded-md h-32">
+  <img src="./public/transport-clipart.png" class="rounded-md h-32">
 
   #### `Meat` and `dairy-based` diets <br /> *(livestock produces methane)*
 
@@ -235,7 +235,7 @@ transition: view-transition
 
   <div class="space-y-2.5 flex flex-col items-center text-center">
 
-  <img src="./shipping-clipart.png" class="rounded-md h-32">
+  <img src="./public/shipping-clipart.png" class="rounded-md h-32">
 
   #### `Imported and processed foods`
 
@@ -247,7 +247,7 @@ transition: view-transition
 
 <div class="tracking-wide">
 
-<img src="./plantd-logo.png" class="h-8 inline" />
+<img src="./public/plantd-logo.png" class="h-8 inline" />
 
 <br/>
 <br/>
@@ -279,7 +279,7 @@ pie title Old
 
 ---
 
-<img src="./plantd-logo.png" class="h-8 inline" />
+<img src="./public/plantd-logo.png" class="h-8 inline" />
 
 <br/>
 <br/>
@@ -312,7 +312,7 @@ pie title Old
 
 ---
 
-<img src="./plantd-logo.png" class="h-8 inline" />
+<img src="./public/plantd-logo.png" class="h-8 inline" />
 
 <br/>
 <br/>
@@ -321,7 +321,7 @@ pie title Old
 
 <div class="grid grid-cols-2 w-full gap-5 items-center">
 
-  <img src="./bulb-hand.jpg" class="rounded-md" />
+  <img src="./public/bulb-hand.jpg" class="rounded-md" />
 
   <div class="w-full">
 
@@ -333,7 +333,7 @@ pie title Old
 
 ---
 
-<img src="./plantd-logo.png" class="h-8 inline" />
+<img src="./public/plantd-logo.png" class="h-8 inline" />
 
 <br/>
 <br/>
@@ -348,13 +348,13 @@ pie title Old
 
   </div>
   
-  <img src="./credit-card.jpg" class="rounded-md" />
+  <img src="./public/credit-card.jpg" class="rounded-md" />
 
 </div>
 
 ---
 
-<img src="./plantd-logo.png" class="h-8 inline" />
+<img src="./public/plantd-logo.png" class="h-8 inline" />
 
 <br/>
 <br/>
@@ -363,7 +363,7 @@ pie title Old
 
 <div class="grid grid-cols-2 w-full gap-5 items-center">
 
-  <img src="./groupings.jpg" class="rounded-md" />
+  <img src="./public/groupings.jpg" class="rounded-md" />
   
   <div class="w-full">
 
@@ -375,7 +375,7 @@ pie title Old
 
 ---
 
-<img src="./plantd-logo.png" class="h-8 inline" />
+<img src="./public/plantd-logo.png" class="h-8 inline" />
 
 <br/>
 <br/>
@@ -391,16 +391,16 @@ pie title Old
 
   </div>
 
-  <img src="./protest.jpg" class="rounded-md" />
+  <img src="./public/protest.jpg" class="rounded-md" />
 
 </div>
 
 ---
 layout: cover
-background: ./protest-2.jpg
+background: ./public/protest-2.jpg
 ---
 
-<img src="./plantd-logo.png" class="h-8 inline" />
+<img src="./public/plantd-logo.png" class="h-8 inline" />
 
 <br/>
 <br/>
@@ -411,10 +411,10 @@ background: ./protest-2.jpg
 
 ---
 layout: cover
-background: ./laptop.jpg
+background: ./public/laptop.jpg
 ---
 
-<img src="./plantd-logo.png" class="h-8 inline" />
+<img src="./public/plantd-logo.png" class="h-8 inline" />
 
 <br/>
 <br/>
@@ -426,10 +426,10 @@ background: ./laptop.jpg
 
 ---
 layout: cover
-background: ./reading.jpg
+background: ./public/reading.jpg
 ---
 
-<img src="./plantd-logo.png" class="h-8 inline" />
+<img src="./public/plantd-logo.png" class="h-8 inline" />
 
 <br/>
 <br/>
@@ -440,7 +440,7 @@ background: ./reading.jpg
 
 ---
 
-<img src="./plantd-logo.png" class="h-8 inline" />
+<img src="./public/plantd-logo.png" class="h-8 inline" />
 
 <br/>
 <br/>
@@ -449,7 +449,7 @@ background: ./reading.jpg
 
 <div class="flex flex-col gap-5 items-center justify-center">
 
-<img src="./1t-org.png" class="h-32 rounded-full" />
+<img src="./public/1t-org.png" class="h-32 rounded-full" />
 
 <div>
 
@@ -464,7 +464,7 @@ across 100 countries in support of the UN Decade on Ecosystem Restoration.
 
 ---
 
-<img src="./plantd-logo.png" class="h-8 inline" />
+<img src="./public/plantd-logo.png" class="h-8 inline" />
 
 <br/>
 <br/>
@@ -474,7 +474,7 @@ across 100 countries in support of the UN Decade on Ecosystem Restoration.
 <div class="flex flex-col gap-5 items-center justify-center">
 
 <div class="rounded-md h-fit p-8 bg-white">
-<img src="./ftse.png" class="h-16 bg-cover" />
+<img src="./public/ftse.png" class="h-16 bg-cover" />
 </div>
 
 <div>
@@ -490,7 +490,7 @@ across 100 countries in support of the UN Decade on Ecosystem Restoration.
 
 ---
 
-<img src="./plantd-logo.png" class="h-8 inline" />
+<img src="./public/plantd-logo.png" class="h-8 inline" />
 
 <br/>
 <br/>
@@ -499,7 +499,7 @@ across 100 countries in support of the UN Decade on Ecosystem Restoration.
 
 <div class="flex flex-col gap-5 items-center justify-center">
   
-  <img src="./united-airlines.png" class="h-32 bg-cover rounded-full" />
+  <img src="./public/united-airlines.png" class="h-32 bg-cover rounded-full" />
 
 <div>
 
@@ -515,7 +515,7 @@ United Airlines' SAF program is part of its goal to achieve net-zero carbon emis
 layout: cover
 ---
 
-<img src="./plantd-logo.png" class="h-8 inline" />
+<img src="./public/plantd-logo.png" class="h-8 inline" />
 
 <br/>
 <br/>
@@ -526,7 +526,7 @@ layout: cover
 
 ---
 
-<img src="./plantd-logo.png" class="h-8 inline" />
+<img src="./public/plantd-logo.png" class="h-8 inline" />
 
 <br/>
 <br/>
@@ -541,10 +541,10 @@ layout: cover
 
 ---
 layout: cover
-background: ./road.jpg
+background: ./public/road.jpg
 ---
 
-<img src="./plantd-logo.png" class="h-8 inline" />
+<img src="./public/plantd-logo.png" class="h-8 inline" />
 
 <br/>
 <br/>
@@ -557,10 +557,10 @@ ESG investments are expected to hit $33.9 trillion by 2026. New regulations and 
 
 ---
 layout: cover
-background: ./planting.jpg
+background: ./public/planting.jpg
 ---
 
-<img src="./plantd-logo.png" class="h-8 inline" />
+<img src="./public/plantd-logo.png" class="h-8 inline" />
 
 <br/>
 <br/>
@@ -573,10 +573,10 @@ background: ./planting.jpg
 
 ---
 layout: cover
-background: ./forest-fire.png
+background: ./public/forest-fire.png
 ---
 
-<img src="./plantd-logo.png" class="h-8 inline" />
+<img src="./public/plantd-logo.png" class="h-8 inline" />
 
 <br/>
 <br/>
@@ -589,10 +589,10 @@ background: ./forest-fire.png
 
 ---
 layout: cover
-background: ./collaboration.jpg
+background: ./public/collaboration.jpg
 ---
 
-<img src="./plantd-logo.png" class="h-8 inline" />
+<img src="./public/plantd-logo.png" class="h-8 inline" />
 
 <br/>
 <br/>
@@ -605,10 +605,10 @@ background: ./collaboration.jpg
 
 ---
 layout: cover
-background: ./planting.jpg
+background: ./public/planting.jpg
 ---
 
-<img src="./plantd-logo.png" class="h-8 inline" />
+<img src="./public/plantd-logo.png" class="h-8 inline" />
 
 <br/>
 <br/>
@@ -621,7 +621,7 @@ background: ./planting.jpg
 
 <div>
 
-<img src="./plantd-logo.png" class="h-8 inline" />
+<img src="./public/plantd-logo.png" class="h-8 inline" />
 
 <br/>
 <br/>
@@ -630,7 +630,7 @@ background: ./planting.jpg
 
 <div class="flex flex-col items-center">
 
-At <img src="./plantd-logo.png" class="h-8 inline" />, we empower individuals and organizations to take meaningful action against climate change.
+At <img src="./public/plantd-logo.png" class="h-8 inline" />, we empower individuals and organizations to take meaningful action against climate change.
 
 Our mission is to plant <span class="text-green">one billion trees</span> worldwide, forging a path towards a
 **greener future** for our planet and
@@ -641,7 +641,7 @@ all species that inhabit it.
 
 </div>
 
-<img src="./guy-pot.png" class="h-full object-cover rounded-md" />
+<img src="./public/guy-pot.png" class="h-full object-cover rounded-md" />
 
 </div>
 
@@ -651,7 +651,7 @@ all species that inhabit it.
 
 <div>
 
-<img src="./plantd-logo.png" class="h-8 inline" />
+<img src="./public/plantd-logo.png" class="h-8 inline" />
 
 <br/>
 <br/>
@@ -667,13 +667,13 @@ all species that inhabit it.
 
 </div>
 
-<img src="./guy-pot.png" class="h-full object-cover rounded-md" />
+<img src="./public/guy-pot.png" class="h-full object-cover rounded-md" />
 
 </div>
 
 ---
 
-<img src="./plantd-logo.png" class="h-8 inline" />
+<img src="./public/plantd-logo.png" class="h-8 inline" />
 
 <br/>
 <br/>
@@ -684,7 +684,7 @@ all species that inhabit it.
 
   <div class="flex flex-col items-center gap-5 text-center">
 
-  <img src="./chart-clipart.png" class="rounded-md h-32" />
+  <img src="./public/chart-clipart.png" class="rounded-md h-32" />
 
   #### **Auditable Reports**
 
@@ -692,7 +692,7 @@ all species that inhabit it.
 
   <div class="flex flex-col items-center gap-5 text-center">
 
-  <img src="./shake-hands-clipart.png" class="rounded-md h-32" />
+  <img src="./public/shake-hands-clipart.png" class="rounded-md h-32" />
 
   #### **Stronger relationship with investors**
 
@@ -700,7 +700,7 @@ all species that inhabit it.
 
   <div class="flex flex-col items-center gap-5 text-center">
 
-  <img src="./roadblock-clipart.png" class="rounded-md h-32" />
+  <img src="./public/roadblock-clipart.png" class="rounded-md h-32" />
 
   #### **Regulatory Risk Mitigation**
 
@@ -710,7 +710,7 @@ all species that inhabit it.
 
 ---
 
-<img src="./plantd-logo.png" class="h-8 inline" />
+<img src="./public/plantd-logo.png" class="h-8 inline" />
 
 <br/>
 <br/>
@@ -721,7 +721,7 @@ all species that inhabit it.
 
   <div class="flex flex-col items-center gap-5 text-center">
 
-  <img src="./achievement-clipart.png" class="rounded-md h-32" />
+  <img src="./public/achievement-clipart.png" class="rounded-md h-32" />
 
   #### **Consumer preference and brand loyalty**
 
@@ -729,7 +729,7 @@ all species that inhabit it.
 
   <div class="flex flex-col items-center gap-5 text-center">
 
-  <img src="./bulb-clipart.png" class="rounded-md h-32" />
+  <img src="./public/bulb-clipart.png" class="rounded-md h-32" />
 
   #### **Talent retention**
 
@@ -737,7 +737,7 @@ all species that inhabit it.
 
   <div class="flex flex-col items-center gap-5 text-center">
 
-  <img src="./news-check-clipart.png" class="rounded-md h-32" />
+  <img src="./public/news-check-clipart.png" class="rounded-md h-32" />
 
   #### **Positive Media Coverage & PR**
 
@@ -747,10 +747,10 @@ all species that inhabit it.
 
 ---
 layout: cover
-background: ./forest.png
+background: ./public/forest.png
 ---
 
-<img src="./plantd-logo.png" class="h-8 inline" />
+<img src="./public/plantd-logo.png" class="h-8 inline" />
 
 <br/>
 <br/>
@@ -759,7 +759,7 @@ background: ./forest.png
 
 ---
 
-<img src="./plantd-logo.png" class="h-8 inline" />
+<img src="./public/plantd-logo.png" class="h-8 inline" />
 
 <br/>
 <br/>
@@ -775,13 +775,13 @@ offering the highest level of environmental integrity when it comes to contribut
 
 </div>
 
-<img src="./laptop-mockup.png"/>
+<img src="./public/laptop-mockup.png"/>
 
 </div>
 
 ---
 
-<img src="./plantd-logo.png" class="h-8 inline" />
+<img src="./public/plantd-logo.png" class="h-8 inline" />
 
 <br/>
 <br/>
@@ -823,16 +823,16 @@ offering the highest level of environmental integrity when it comes to contribut
 
 </div>
 
-<img src="./laptop-mockup.png"/>
+<img src="./public/laptop-mockup.png"/>
 
 </div>
 
 ---
 layout: cover
-background: ./mangroves.png
+background: ./public/mangroves.png
 ---
 
-<img src="./plantd-logo.png" class="h-8 inline" />
+<img src="./public/plantd-logo.png" class="h-8 inline" />
 
 <br/>
 <br/>
@@ -873,10 +873,10 @@ background: ./mangroves.png
 
 ---
 layout: cover
-background: ./agroforestry-senegal.png
+background: ./public/agroforestry-senegal.png
 ---
 
-<img src="./plantd-logo.png" class="h-8 inline" />
+<img src="./public/plantd-logo.png" class="h-8 inline" />
 
 <br/>
 <br/>
@@ -915,10 +915,10 @@ background: ./agroforestry-senegal.png
 
 ---
 layout: cover
-background: ./partner-with-us.jpg
+background: ./public/partner-with-us.jpg
 ---
 
-<img src="./plantd-logo.png" class="h-8 inline" />
+<img src="./public/plantd-logo.png" class="h-8 inline" />
 
 <br/>
 <br/>
@@ -929,7 +929,7 @@ background: ./partner-with-us.jpg
 layout: image
 ---
 
-<img src="./plantd-logo.png" class="h-8 inline" />
+<img src="./public/plantd-logo.png" class="h-8 inline" />
 
 <br/>
 <br/>
