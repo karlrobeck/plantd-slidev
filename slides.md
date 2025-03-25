@@ -1,11 +1,11 @@
 ---
 layout: image
-image: ./public/plantd-cover.jpg
+image: ./plantd-cover.jpg
 ---
 
 ---
 layout: cover
-background: ./public/tree-1.jpg
+background: ./tree-1.jpg
 ---
 
 <img src="./public/plantd-logo.png" class="h-8 inline" />
@@ -397,7 +397,7 @@ pie title Old
 
 ---
 layout: cover
-background: ./public/protest-2.jpg
+background: ./protest-2.jpg
 ---
 
 <img src="./public/plantd-logo.png" class="h-8 inline" />
@@ -411,7 +411,7 @@ background: ./public/protest-2.jpg
 
 ---
 layout: cover
-background: ./public/laptop.jpg
+background: ./laptop.jpg
 ---
 
 <img src="./public/plantd-logo.png" class="h-8 inline" />
@@ -426,7 +426,7 @@ background: ./public/laptop.jpg
 
 ---
 layout: cover
-background: ./public/reading.jpg
+background: ./reading.jpg
 ---
 
 <img src="./public/plantd-logo.png" class="h-8 inline" />
@@ -541,7 +541,7 @@ layout: cover
 
 ---
 layout: cover
-background: ./public/road.jpg
+background: ./road.jpg
 ---
 
 <img src="./public/plantd-logo.png" class="h-8 inline" />
@@ -557,7 +557,7 @@ ESG investments are expected to hit $33.9 trillion by 2026. New regulations and 
 
 ---
 layout: cover
-background: ./public/planting.jpg
+background: ./planting.jpg
 ---
 
 <img src="./public/plantd-logo.png" class="h-8 inline" />
@@ -573,7 +573,7 @@ background: ./public/planting.jpg
 
 ---
 layout: cover
-background: ./public/forest-fire.png
+background: ./forest-fire.png
 ---
 
 <img src="./public/plantd-logo.png" class="h-8 inline" />
@@ -589,7 +589,7 @@ background: ./public/forest-fire.png
 
 ---
 layout: cover
-background: ./public/collaboration.jpg
+background: ./collaboration.jpg
 ---
 
 <img src="./public/plantd-logo.png" class="h-8 inline" />
@@ -605,7 +605,7 @@ background: ./public/collaboration.jpg
 
 ---
 layout: cover
-background: ./public/planting.jpg
+background: ./planting.jpg
 ---
 
 <img src="./public/plantd-logo.png" class="h-8 inline" />
@@ -747,7 +747,7 @@ all species that inhabit it.
 
 ---
 layout: cover
-background: ./public/forest.png
+background: ./forest.png
 ---
 
 <img src="./public/plantd-logo.png" class="h-8 inline" />
@@ -829,7 +829,7 @@ offering the highest level of environmental integrity when it comes to contribut
 
 ---
 layout: cover
-background: ./public/mangroves.png
+background: ./mangroves.png
 ---
 
 <img src="./public/plantd-logo.png" class="h-8 inline" />
@@ -873,7 +873,7 @@ background: ./public/mangroves.png
 
 ---
 layout: cover
-background: ./public/agroforestry-senegal.png
+background: ./agroforestry-senegal.png
 ---
 
 <img src="./public/plantd-logo.png" class="h-8 inline" />
@@ -915,7 +915,7 @@ background: ./public/agroforestry-senegal.png
 
 ---
 layout: cover
-background: ./public/partner-with-us.jpg
+background: ./partner-with-us.jpg
 ---
 
 <img src="./public/plantd-logo.png" class="h-8 inline" />
